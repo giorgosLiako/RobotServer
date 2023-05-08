@@ -4,7 +4,6 @@
   "description": "",
   "main": "webapp.js",
   "scripts": {
-    "build:digitalocean": "npm install --production=false && npm run build && npm ci && npm run build:digitalocean",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
